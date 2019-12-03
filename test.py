@@ -1,8 +1,8 @@
 intervals = [2,1, 1, 1, 1, 4,4,4, 3,4,1,1,1]
 const = intervals[0]
 index_start = 0
-index_end = 0
-i = 0
+index_end = 1
+i = 1
 count = 1
 flag=0
 j=len(intervals)-2
